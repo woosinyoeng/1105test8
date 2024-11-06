@@ -146,6 +146,8 @@ html, body{font-family: "Noto Sans KR", sans-serif;}
 
  .slide_title>p:nth-child(2){font-size: 30px; padding-bottom: 5vw;}
  .slide_title>p:nth-child(3){display: none;}
+  .slide3 .slide_title p:nth-child(1){font-size: 40px; height: 90%;}
+
 
  .ctrl_box{right: auto; left: 0;}
 }
@@ -193,7 +195,7 @@ html, body{font-family: "Noto Sans KR", sans-serif;}
  .con1_list>li>a>p:nth-child(2){margin: 10px 0;}
 
  .con1_list{flex-wrap: wrap;justify-content: center; }
- .con1_list>li{border: 1px solid #ddd; width: 30%; flex: none; height: 202px; margin: 1%;}
+ .con1_list>li{border: 1px solid #ddd; width: 40%; flex: none; height: 202px; margin: 1%;}
 
 }
 
